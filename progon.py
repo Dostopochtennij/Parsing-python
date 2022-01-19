@@ -1,4 +1,3 @@
-Constantin Fedenko, [19.01.2022 18:03]
 import re
 import threading
 
